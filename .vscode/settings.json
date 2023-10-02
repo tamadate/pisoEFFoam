@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"electrostaticFoam.C": "cpp",
+		"pisoFoam.C": "cpp",
+		"pisoEFFoam.C": "cpp"
+	}
+}
